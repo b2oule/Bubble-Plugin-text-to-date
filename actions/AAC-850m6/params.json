@@ -1,0 +1,23 @@
+{
+    "category": "plugins",
+    "display": "text to date",
+    "fields": {
+        "AAD": {
+            "caption": "text",
+            "editor": "DynamicValue",
+            "name": "text",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAE": {
+            "caption": "date",
+            "name": "date",
+            "rank": 0,
+            "value": "date"
+        }
+    },
+    "type": "server_side",
+    "use_packages": false
+}

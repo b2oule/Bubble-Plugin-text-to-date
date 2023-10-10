@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "data (things)"
+    },
+    "description": "Transform a text to a date matching bubble formatting",
+    "image": "//meta-l.cdn.bubble.io/f1696942964745x326678319239612100/Group%205522.png",
+    "license": "open_source",
+    "name": "text to date",
+    "sa_node_version": 18
+}
